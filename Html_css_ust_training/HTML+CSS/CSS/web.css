@@ -1,0 +1,171 @@
+#grad {
+    font-family: cursive;
+    background-color:black;
+    color: white;
+    margin-top: 0%;
+    height: 60px;
+}
+#hi{
+    font-size: 20px;
+    margin-left: 427px;
+}
+#hh{
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+#hm{
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+#hn{
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+#pc{
+    margin-top: 170px;
+    border-radius: 50%;
+    height:400px;
+    width: 500px;
+}
+#nm{
+    color: rgb(83, 82, 82);
+    font-size:70px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nn{
+    color: rgb(59, 58, 58);
+    font-size: 30px;
+    font-weight: 100;
+    font-family: inherit;
+}
+#bt{
+    height: 80px;
+    border-radius: 10px;
+    width: 300px;
+    background-color: rgb(112, 162, 255);
+    color: white;
+    font-size: 25px;
+    border:1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#he{
+    margin-top: 250px;
+    margin-left: 450px;
+    color: rgb(54, 54, 54);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#aa{
+    margin-left: 450px;
+    color: rgb(153, 152, 152);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#aq{
+font-size: 40px;
+color: rgb(34, 33, 33);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 100;
+}
+#aw{
+    font-size: 40px;
+    color: rgb(34, 33, 33);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    }
+#ae{
+        font-size: 40px;
+        color: rgb(34, 33, 33);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 100;
+   }
+#ar{
+    font-weight: 300;
+    color: rgb(102, 101, 101);
+    size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+#at{
+    font-weight: 300;
+    color: rgb(102, 101, 101);
+    size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+#ay{
+    font-weight: 300;
+    color: rgb(102, 101, 101);
+    size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#au{
+    font-size: 25px;
+    margin-top: 450px;
+    margin-left: 320px;
+    font-weight: 700;
+    color: rgb(26, 22, 22);
+    size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#btn{
+    margin-top: 20px;
+    margin-left: 400px;
+    height: 80px;
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgb(112, 162, 255);
+    color: white;
+    font-size: 35px;
+    border:1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#ai{
+    margin-top: 100px;
+    margin-left: 370px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(26, 22, 22);
+
+}
+#ao{
+    margin-top: 40px;
+    margin-left: 320px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(85, 85, 85);
+
+}
+img{
+    
+    margin-top: 30px;
+    height: 250px;
+    width: 380px;
+    padding: 5px;
+    margin-left: 20px;
+
+}
+#sd{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#sf{
+    margin-top: 25px;
+    margin-left: 470px;
+    height: 70px;
+    width: 350px;
+    background-color: cornflowerblue;
+    font-size: 30px;
+    color: white;
+    font-weight: 300;
+    margin-bottom: 100px;
+
+}

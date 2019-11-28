@@ -1,0 +1,4 @@
+14,Priya,100000,F
+18,Kirti,10000,M
+19,Sardar,100000,M
+20,Sheelu,200000,F
